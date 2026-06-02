@@ -1,0 +1,6 @@
+customer_id,name,email,age,price,status,embedding_vector
+1,Juan Perez,juan@gmail.com,"29",1200,ACTIVE,"[0.12,0.55]"
+2,Ana Garcia,,27,900,ACTIVE,"[0.22,0.31]"
+3,Miguel Lopez,miguel@gmail.com,35,"1500 USD",INACTIVE,"[0.91,0.77]"
+4,Laura Martinez,,32,1100,ACTIVE,"[0.44,0.88]"
+5,Pedro Gomez,pedro@gmail.com,41,1300,ACTIVE,"[0.61,0.52]"

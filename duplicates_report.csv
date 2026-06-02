@@ -1,0 +1,8 @@
+group_id,row_index,record
+0,2,"{'id': 3, 'name': 'J. Pérez', 'email': 'juan.perez@gmail.com', 'city': 'Madrid'}"
+0,3,"{'id': 4, 'name': 'Ana García', 'email': 'ana@gmail.com', 'city': 'Barcelona'}"
+1,4,"{'id': 5, 'name': 'Ana Garcia', 'email': 'ana.garcia@gmail.com', 'city': 'Barcelona'}"
+1,5,"{'id': 6, 'name': 'Pedro López', 'email': 'pedro@gmail.com', 'city': 'Valencia'}"
+1,6,"{'id': 7, 'name': 'Pedro Lopez', 'email': 'p.lopez@gmail.com', 'city': 'Valencia'}"
+2,7,"{'id': 8, 'name': 'Maria Rodriguez', 'email': 'maria@gmail.com', 'city': 'Sevilla'}"
+2,8,"{'id': 9, 'name': 'María Rodríguez', 'email': 'mrodriguez@gmail.com', 'city': 'Sevilla'}"

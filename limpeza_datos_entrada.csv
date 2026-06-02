@@ -1,0 +1,9 @@
+id,product_name,price,category
+1, iPhone 15 PRO MAX , "1.299,99€", smartphones
+2,iPhone15 Pro Max,1299.99,Smartphones
+3,Samsung Galaxy S23 ,"899,50 €", smartphones
+4, galaxy   s23 ,899.5,SMARTPHONES
+5,MacBook Pro 14 M3, "2.199,00€", laptops
+6,macbook pro 14 m3 ,2199,laptops
+7, Lenovo THINKPAD x1 , "1.800 €", laptops
+8,,999,unknown

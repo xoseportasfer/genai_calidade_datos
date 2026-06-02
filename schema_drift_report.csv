@@ -1,0 +1,5 @@
+type,column,severity,description
+NEW_COLUMN,embedding_vector,Medium,Nueva columna detectada: embedding_vector
+NEW_COLUMN,status,Medium,Nueva columna detectada: status
+REMOVED_COLUMN,country,High,Columna eliminada: country
+TYPE_CHANGE,price,Critical,Tipo cambiado en 'price': int64 → str

@@ -1,0 +1,32 @@
+[project]
+name = "post_generator"
+version = "0.1.0"
+description = "Proxectos calidade de datos"
+requires-python = "==3.11.5"
+dependencies = [
+    "langchain-ollama>=1.1.0",
+    "pypdf>=6.12.1",
+    "pypdf2>=3.0.1",
+    "streamlit>=1.57.0",
+    "scikit-learn>=1.5.0",
+]
+
+[tool.poetry]
+name = "002-streamlit-blog-post-generator"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11.5"
+streamlit = "^1.37.0"
+langchain = "^0.2.11"
+langchain-openai = "^0.1.19"
+langchain-ollama = "^0.1.0"
+pyPDF2 = "==3.0.1"
+scikit-learn = "^1.5.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

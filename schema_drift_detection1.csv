@@ -1,0 +1,6 @@
+customer_id,name,email,age,country,price
+1,Juan Perez,juan@gmail.com,29,Spain,1200
+2,Ana Garcia,ana@gmail.com,27,Spain,900
+3,Miguel Lopez,miguel@gmail.com,35,Mexico,1500
+4,Laura Martinez,laura@gmail.com,32,Argentina,1100
+5,Pedro Gomez,pedro@gmail.com,41,Chile,1300

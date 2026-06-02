@@ -1,0 +1,5 @@
+id,name,email,phone,country,source_records
+1,J. Pérez,juan@gmail.com,+34 600111222,Spain,3
+4,Ana Garcia,ana.garcia@gmail.com,+34 611222333,España,2
+6,Pedro Gomez,pedro@gmail.com,+34 622333444,Mexico,2
+8,Carlos Ruiz,carlos@gmail.com,+34 633444555,Chile,1

@@ -1,0 +1,9 @@
+id,product_name,price,category
+iPhone 15 PRO MAX,"""1.299","99€""",smartphones
+iPhone15 Pro Max,1299.99,Smartphones,UNKNOWN
+Samsung Galaxy S23,"899,50 €",smartphones,UNKNOWN
+galaxy s23,899.5,SMARTPHONES,UNKNOWN
+MacBook Pro 14 M3,"""2.199","00€""",laptops
+macbook pro 14 m3,2199,laptops,UNKNOWN
+Lenovo THINKPAD x1,"""1.800 €""",laptops,UNKNOWN
+UNKNOWN,999,unknown,UNKNOWN

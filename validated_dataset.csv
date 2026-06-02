@@ -1,0 +1,9 @@
+id,name,email,age,country
+1,Juan Pérez,juan@gmail.com,29,Spain
+2,Ana Garcia,ana.gmail.com,27,Spain
+3,Miguel Lopez,miguel@,120,Spain
+4,Laura Martinez,laura@gmail.com,0,Spain
+5,Pedro Gomez,pedro@gmail.com,41,Spain
+6,Pedro Gomez,pedro@gmail.com,41,Spain
+7,,missing@email.com,32,Spain
+8,Carlos Ruiz,carlos.ruizgmail.com,30,Spain
